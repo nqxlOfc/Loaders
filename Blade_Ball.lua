@@ -1,1 +1,1 @@
--- WORKING ON UPDATE
+-- Bedol Hub Roblox Blade Ball Script Copyright © 2023-2030
